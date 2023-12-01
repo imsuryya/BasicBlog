@@ -1,4 +1,4 @@
-# Project PROJ1
+# Basic Blog
 
 This project is a simple webpage showcasing blog posts and a "Reach Out" section. Below, you'll find a breakdown of the HTML and CSS structure, providing details on different sections and styling elements.
 
