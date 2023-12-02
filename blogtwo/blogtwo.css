@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
+#main-header{
+    text-align: center;
+    padding: 100px;
+    background-color: black;
+    color: aliceblue;
+}
+#main-footer{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+    margin-top: auto;
+}
+#blogtwo{
+    padding: 50px;
+    font-size: larger;
+    border: solid 1px;
+    border-radius: 10px;
+    margin-block-start: 50px;
+    margin-inline-start: 50px;
+    margin-block-end: 20px;
+    margin-inline-end: 50px;
+}
+#myname{
+    color: aliceblue;
+}
